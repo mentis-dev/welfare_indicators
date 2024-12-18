@@ -1,0 +1,393 @@
+ID,Species,Animal_Class,WQ_Principles,WQ_Criteria,Welfare_Hazards_Animal,Welfare_Hazards_Consequences,Welfare_Hazards_Affective_States,Welfare_Hazards_Impact,Ease_of_Hazard_Mitigation,Welfare_Indicator,Indicator_Type,Indicator_Dimensions,Indicator_Ease,Indicator_Resources,Hazards_Source_1,Hazards_Source_2,Global_Usage,Norway_Usage
+1,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+1,Sheep,Lambs from outside year round,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+1,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+1,Sheep,Lambs from winter housed,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+2,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Overcrowded or dirty drinking facilities,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+2,Sheep,Lambs from outside year round,Good Health,Absence of disease,Overcrowded or dirty drinking facilities,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+2,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Overcrowded or dirty drinking facilities,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+2,Sheep,Lambs from winter housed,Good Health,Absence of disease,Overcrowded or dirty drinking facilities,Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+3,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+3,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+3,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor management of bedding (in bedded systems),Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,,,F,Y
+3,Sheep,Lambs from winter housed,Good Health,Absence of disease,Poor management of bedding (in bedded systems),Gastro-enteric disorders,Discomfort,High,Easy,Abdominal discomfort,Welfare outcome,Health/physical/production,Moderate,Low,,,F,Y
+4,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+4,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+4,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Expression of social behaviours,High stocking density indoors,Group (social) stress,Di(stress),Low,Easy,Agonistic behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+4,Sheep,Lambs from winter housed,Appropiate behaviour,Expression of social behaviours,High stocking density indoors,Group (social) stress,Di(stress),Low,Easy,Agonistic behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+5,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Anti-predator behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",N
+5,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Anti-predator behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",N
+5,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Anti-predator behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",N
+5,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Anti-predator behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",N
+6,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Environmental stress,Di(stress),Low,Moderate,Attempts to escape,Welfare outcome,Behavioural,Moderate,Low,25,,F,Y
+6,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+6,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Environmental stress,Di(stress),Low,Moderate,Attempts to escape,Welfare outcome,Behavioural,Moderate,Low,25,,F,Y
+6,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+7,Sheep,Adults - Outside year-round,Good Housing,Ease of movement,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Restriction of movement,Frustration,High,Moderate,Attempts to escape,Welfare outcome,Behavioural,Moderate,Low,25,,F,Y
+7,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+7,Sheep,Adults - Outside/winter housed,Good Housing,Ease of movement,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Restriction of movement,Frustration,High,Moderate,Attempts to escape,Welfare outcome,Behavioural,Moderate,Low,25,,F,Y
+7,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+8,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+8,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+8,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+8,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+9,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+9,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+9,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+9,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Attempts to re-join flock,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+10,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Attempts to re-unite with lamb/ewe,Welfare outcome,Behavioural,Moderate,Low,25,,F,N  
+10,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Attempts to re-unite with lamb/ewe,Welfare outcome,Behavioural,Moderate,Low,25,,F,N  
+10,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Attempts to re-unite with lamb/ewe,Welfare outcome,Behavioural,Moderate,Low,25,,F,N  
+10,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Attempts to re-unite with lamb/ewe,Welfare outcome,Behavioural,Moderate,Low,25,,F,N  
+11,Sheep,Adults - Outside year-round,Appropiate behaviour,Good human-animal relationship,No or little inspection of animals,General disruption of behaviour,Fear,Low,Easy,Avoidance/approach distance,Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+11,Sheep,Lambs from outside year round,Appropiate behaviour,Good human-animal relationship,No or little inspection of animals,General disruption of behaviour,Fear,Low,Easy,Avoidance/approach distance,Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+11,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Good human-animal relationship,No or little inspection of animals,General disruption of behaviour,Fear,Low,Easy,Avoidance/approach distance,Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+11,Sheep,Lambs from winter housed,Appropiate behaviour,Good human-animal relationship,No or little inspection of animals,General disruption of behaviour,Fear,Low,Easy,Avoidance/approach distance,Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+12,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+12,Sheep,Lambs from outside year round,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+12,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+12,Sheep,Lambs from winter housed,Good Health,Absence of disease,Internal parasites,Gastro-enteric disorders,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+13,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+13,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+13,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+13,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+14,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Poor dental health,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,25,,F,Y
+14,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+14,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Poor dental health,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring,Welfare outcome,Health/physical/production,Moderate,Low,25,,F,Y
+14,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+15,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+15,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+15,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+15,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+16,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Lack of grazing supplementation  ,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+16,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Lack of grazing supplementation  ,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+16,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Lack of grazing supplementation  ,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+16,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Lack of grazing supplementation  ,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+17,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+17,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+17,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+17,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+18,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+18,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+18,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+18,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Body condition scoring ,Welfare outcome,Health/physical/production,Moderate,Low,24,,F,Y
+19,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor indoor air quality,Respiratory disorders,Discomfort,High,Moderate,Coughing,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+19,Sheep,Lambs from outside year round,Good Health,Absence of disease,Poor indoor air quality,Respiratory disorders,Discomfort,High,Moderate,Coughing,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+19,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor indoor air quality,Respiratory disorders,Discomfort,High,Moderate,Coughing,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+19,Sheep,Lambs from winter housed,Good Health,Absence of disease,Poor indoor air quality,Respiratory disorders,Discomfort,High,Moderate,Coughing,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+20,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+20,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+20,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor management of bedding (in bedded systems),Respiratory disorders,Discomfort,High,Easy,Coughing,Welfare outcome,Health/physical/production,Easy,Low,,,F,Y
+20,Sheep,Lambs from winter housed,Good Health,Absence of disease,Poor management of bedding (in bedded systems),Respiratory disorders,Discomfort,High,Easy,Coughing,Welfare outcome,Health/physical/production,Easy,Low,,,F,Y
+21,Sheep,Adults - Outside year-round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Ear lesions,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+21,Sheep,Lambs from outside year round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Ear lesions,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+21,Sheep,Adults - Outside/winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Ear lesions,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+21,Sheep,Lambs from winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Ear lesions,Welfare outcome,Health/physical/production,Easy,Low,25,,F,Y
+22,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Delayed lambing intervention,Mortality,Di(stress),High,Easy,Ewe mortality,Management input,,Easy,Low,25,,F,Y
+22,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+22,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Delayed lambing intervention,Mortality,Di(stress),High,Easy,Ewe mortality,Management input,,Easy,Low,25,,F,Y
+22,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+23,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor supervision of lambing,Mortality,Di(stress),High,Easy,Ewe mortality,Management input,,Easy,Low,24,,F,Y
+23,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+23,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor supervision of lambing,Mortality,Di(stress),High,Easy,Ewe mortality,Management input,,Easy,Low,24,,F,Y
+23,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+24,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+24,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+24,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+24,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+25,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Inadequate hoof trimming,Locomotor disorders (including lameness),Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+25,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+25,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Inadequate hoof trimming,Locomotor disorders (including lameness),Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+25,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+26,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+26,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+26,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Inappropriate or damaged slats (in slatted systems),Locomotor disorders (including lameness),Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+26,Sheep,Lambs from winter housed,Good Health,Absence of disease,Inappropriate or damaged slats (in slatted systems),Locomotor disorders (including lameness),Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+27,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Delayed lambing intervention,Reproductive disorders,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+27,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+27,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Delayed lambing intervention,Reproductive disorders,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+27,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+28,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+28,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+28,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+28,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+29,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+29,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+29,Sheep,Adults - Outside/winter housed,Good Health,Absence of injuries,Inappropriate or damaged slats (in slatted systems),Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+29,Sheep,Lambs from winter housed,Good Health,Absence of injuries,Inappropriate or damaged slats (in slatted systems),Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+30,Sheep,Adults - Outside year-round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+30,Sheep,Lambs from outside year round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+30,Sheep,Adults - Outside/winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+30,Sheep,Lambs from winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+31,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+31,Sheep,Lambs from outside year round,Good Health,Absence of pain induced by management procedures,Pain caused by ear tagging / notching / tattooing,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+31,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+31,Sheep,Lambs from winter housed,Good Health,Absence of pain induced by management procedures,Pain caused by ear tagging / notching / tattooing,Soft tissue lesions and integument damage,Pain,High,Moderate,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+32,Sheep,Adults - Outside year-round,Good Health,Absence of pain induced by management procedures,Unskilled or rough shearing,Soft tissue lesions and integument damage,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+32,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+32,Sheep,Adults - Outside/winter housed,Good Health,Absence of pain induced by management procedures,Unskilled or rough shearing,Soft tissue lesions and integument damage,Pain,High,Easy,Facial expression scoring,Welfare outcome,Behavioural,Moderate,Medium,,26,R,N (research only)
+32,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+33,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Becoming lost/trapped/injured in extensive system,Mortality,Di(stress),High,Moderate,Flock records (death due to becoming lost/trapped/injured),Management input,,Easy,Low,,,F,Y
+33,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+33,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Becoming lost/trapped/injured in extensive system,Mortality,Di(stress),High,Moderate,Flock records (death due to becoming lost/trapped/injured),Management input,,Easy,Low,,,F,Y
+33,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+34,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+34,Sheep,Lambs from outside year round,Good Health,Absence of disease,Becoming lost/trapped/injured in extensive system,Mortality,Di(stress),High,Moderate,Flock records (death due to becoming lost/trapped/injured),Management input,,Easy,Low,,,F,Y
+34,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+34,Sheep,Lambs from winter housed,Good Health,Absence of disease,Becoming lost/trapped/injured in extensive system,Mortality,Di(stress),High,Moderate,Flock records (death due to becoming lost/trapped/injured),Management input,,Easy,Low,,,F,Y
+35,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Flock records (dental health) ,Management input,,Easy,Low,25,,F,Y
+35,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+35,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Flock records (dental health) ,Management input,,Easy,Low,25,,F,Y
+35,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+36,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Poor dental health,Prolonged hunger,Discomfort,High,Moderate,Flock records (dental health) ,Management input,,Easy,Low,25,,F,Y
+36,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+36,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Poor dental health,Prolonged hunger,Discomfort,High,Moderate,Flock records (dental health) ,Management input,,Easy,Low,25,,F,Y
+36,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+37,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+37,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+37,Sheep,Adults - Outside/winter housed,Good Health,Absence of injuries,Inappropriate or damaged slats (in slatted systems),Soft tissue lesions and integument damage,Pain,High,Moderate,Foot and leg injuries,Welfare outcome,Health/physical/production ,Easy,Low,,,F,Y
+37,Sheep,Lambs from winter housed,Good Health,Absence of injuries,Inappropriate or damaged slats (in slatted systems),Soft tissue lesions and integument damage,Pain,High,Moderate,Foot and leg injuries,Welfare outcome,Health/physical/production ,Easy,Low,,,F,Y
+38,Sheep,Adults - Outside year-round,Good Health,Absence of injuries,Inability to escape from predators,Bone lesions (incl. fractures and dislocations),Pain,High,Moderate,Fractures and other injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+38,Sheep,Lambs from outside year round,Good Health,Absence of injuries,Inability to escape from predators,Bone lesions (incl. fractures and dislocations),Pain,High,Moderate,Fractures and other injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+38,Sheep,Adults - Outside/winter housed,Good Health,Absence of injuries,Inability to escape from predators,Bone lesions (incl. fractures and dislocations),Pain,High,Moderate,Fractures and other injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+38,Sheep,Lambs from winter housed,Good Health,Absence of injuries,Inability to escape from predators,Bone lesions (incl. fractures and dislocations),Pain,High,Moderate,Fractures and other injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+39,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+39,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+39,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Expression of social behaviours,High stocking density indoors,General disruption of behaviour,Frustration,Low,Easy,Impaired social behaviour,Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+39,Sheep,Lambs from winter housed,Appropiate behaviour,Expression of social behaviours,High stocking density indoors,General disruption of behaviour,Frustration,Low,Easy,Impaired social behaviour,Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+40,Sheep,Adults - Outside year-round,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Itchiness,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+40,Sheep,Lambs from outside year round,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Itchiness,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+40,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Itchiness,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+40,Sheep,Lambs from winter housed,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Itchiness,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+41,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,25,,R,N (research only)
+41,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+41,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,25,,R,N (research only)
+41,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+42,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+42,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+42,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Insufficient grazing,Prolonged hunger,Discomfort,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+42,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+43,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+43,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+43,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+43,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+44,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+44,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+44,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Stocking rate too high,Prolonged hunger,Discomfort,High,Easy,Jaw movement recording,Welfare outcome,Behavioural,Difficult,High,24,,R,N (research only)
+44,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+45,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Knowledge of body condition scoring,Management input,,Moderate,Medium,24,,F,Y
+45,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Knowledge of body condition scoring,Management input,,Moderate,Medium,24,,F,Y
+45,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Knowledge of body condition scoring,Management input,,Moderate,Medium,24,,F,Y
+45,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Lack of knowledge of body condition scoring,Prolonged hunger,Discomfort,High,Easy,Knowledge of body condition scoring,Management input,,Moderate,Medium,24,,F,Y
+46,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+46,Sheep,Lambs from outside year round,Good Health,Absence of disease,High lamb mortality,Mortality,Di(stress),High,Moderate,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+46,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+46,Sheep,Lambs from winter housed,Good Health,Absence of disease,High lamb mortality,Mortality,Di(stress),High,Moderate,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+47,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+47,Sheep,Lambs from outside year round,Good Health,Absence of disease,Poor management of orphan lambs,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+47,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+47,Sheep,Lambs from winter housed,Good Health,Absence of disease,Poor management of orphan lambs,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+48,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+48,Sheep,Lambs from outside year round,Good Health,Absence of disease,Delayed lambing intervention,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+48,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+48,Sheep,Lambs from winter housed,Good Health,Absence of disease,Delayed lambing intervention,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+49,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+49,Sheep,Lambs from outside year round,Appropiate behaviour,Expression of social behaviours,Poor maternal behaviour (ewe-lamb bonding),Mortality,Di(stress),High,Moderate,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+49,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+49,Sheep,Lambs from winter housed,Appropiate behaviour,Expression of social behaviours,Poor maternal behaviour (ewe-lamb bonding),Mortality,Di(stress),High,Moderate,Lamb mortality,Management input,,Easy,Low,25,,F,Y
+50,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+50,Sheep,Lambs from outside year round,Good Health,Absence of disease,Poor supervision of lambing,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,24,,F,Y
+50,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+50,Sheep,Lambs from winter housed,Good Health,Absence of disease,Poor supervision of lambing,Mortality,Di(stress),High,Easy,Lamb mortality,Management input,,Easy,Low,24,,F,Y
+51,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing behaviour (dififcult/long lambing),Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+51,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+51,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing behaviour (dififcult/long lambing),Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+51,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+52,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing records (difficulty lambing),Management input, ,Easy,Low,24,,F,Y
+52,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+52,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing records (difficulty lambing),Management input, ,Easy,Low,24,,F,Y
+52,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+53,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing records (duration of lambing),Management input, ,Easy,Low,,,F,Y
+53,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+53,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor supervision of lambing,Reproductive disorders,Pain,High,Easy,Lambing records (duration of lambing),Management input, ,Easy,Low,,,F,Y
+53,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+54,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Inadequate hoof trimming,Locomotor disorders (including lameness),Pain,High,Easy,Locomotion/gait scoring,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+54,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+54,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Inadequate hoof trimming,Locomotor disorders (including lameness),Pain,High,Easy,Locomotion/gait scoring,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+54,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+55,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+55,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+55,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Inappropriate or damaged slats (in slatted systems),Locomotor disorders (including lameness),Pain,High,Moderate,Locomotion/gait scoring,Welfare outcome,Behavioural,Moderate,Low,,,F,Y
+55,Sheep,Lambs from winter housed,Good Health,Absence of disease,Inappropriate or damaged slats (in slatted systems),Locomotor disorders (including lameness),Pain,High,Moderate,Locomotion/gait scoring,Welfare outcome,Behavioural,Moderate,Low,,,F,Y
+56,Sheep,Adults - Outside year-round,Good Housing,Ease of movement,Inadequate hoof trimming,Restriction of movement,Discomfort,High,Easy,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+56,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+56,Sheep,Adults - Outside/winter housed,Good Housing,Ease of movement,Inadequate hoof trimming,Restriction of movement,Discomfort,High,Easy,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+56,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+57,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+57,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+57,Sheep,Adults - Outside/winter housed,Good Housing,Ease of movement,Lack of space indoors,Restriction of movement,Frustration,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,,,R,Y
+57,Sheep,Lambs from winter housed,Good Housing,Ease of movement,Lack of space indoors,Restriction of movement,Frustration,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,,,R,Y
+58,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+58,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+58,Sheep,Adults - Outside/winter housed,Good Housing,Ease of movement,Poor housing design,Restriction of movement,Frustration,High,Difficult,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,,,R,Y
+58,Sheep,Lambs from winter housed,Good Housing,Ease of movement,Poor housing design,Restriction of movement,Frustration,High,Difficult,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,,,R,Y
+59,Sheep,Adults - Outside year-round,Good Housing,Ease of movement,Poor walking tracks,Restriction of movement,Discomfort,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+59,Sheep,Lambs from outside year round,Good Housing,Ease of movement,Poor walking tracks,Restriction of movement,Discomfort,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+59,Sheep,Adults - Outside/winter housed,Good Housing,Ease of movement,Poor walking tracks,Restriction of movement,Discomfort,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+59,Sheep,Lambs from winter housed,Good Housing,Ease of movement,Poor walking tracks,Restriction of movement,Discomfort,High,Moderate,Locomotory behaviour (restricted movement),Welfare outcome,Behavioural,Moderate,Medium,24,,R,Y
+60,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+60,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+60,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Inadequate bedding (in bedded systems),Cold stress,Di(stress),Low,Easy,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+60,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Inadequate bedding (in bedded systems),Cold stress,Di(stress),Low,Easy,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+61,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+61,Sheep,Lambs from outside year round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+61,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+61,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+62,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+62,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+62,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Poor or damaged insulation,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+62,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Poor or damaged insulation,Cold stress,Di(stress),Low,Moderate,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+63,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Shearing at inappropriate time,Cold stress,Di(stress),Low,Easy,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+63,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+63,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Shearing at inappropriate time,Cold stress,Di(stress),Low,Easy,Lying close together,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+63,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+64,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,,26a,"F, R",Y
+64,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+64,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor dental health,Gastro-enteric disorders,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,,26a,"F, R",Y
+64,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+65,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Delayed lambing intervention,Reproductive disorders,Pain,High,Easy,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+65,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+65,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Delayed lambing intervention,Reproductive disorders,Pain,High,Easy,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+65,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+66,Sheep,Adults - Outside year-round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+66,Sheep,Lambs from outside year round,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+66,Sheep,Adults - Outside/winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+66,Sheep,Lambs from winter housed,Good Health,Absence of pain induced by management procedures,Loss of or damage caused by ear tag,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+67,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+67,Sheep,Lambs from outside year round,Good Health,Absence of pain induced by management procedures,Pain caused by ear tagging / notching / tattooing,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+67,Sheep,Adults - Outside/winter housed,,,,,,,,,,,,,,,,
+67,Sheep,Lambs from winter housed,Good Health,Absence of pain induced by management procedures,Pain caused by ear tagging / notching / tattooing,Soft tissue lesions and integument damage,Pain,High,Moderate,"Pain behaviour (teeth grinding, reluctance to move, change in posture)",Welfare outcome,Behavioural,Moderate,Medium,25,26a,"F, R",Y
+68,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged thirst,Lack of emergency water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+68,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged thirst,Lack of emergency water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+68,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged thirst,Lack of emergency water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+68,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged thirst,Lack of emergency water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+69,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged thirst,Lack of suitable water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural ,Moderate,Low,24,,"F, R",Y
+69,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged thirst,Lack of suitable water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural ,Moderate,Low,24,,"F, R",Y
+69,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged thirst,Lack of suitable water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural ,Moderate,Low,24,,"F, R",Y
+69,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged thirst,Lack of suitable water supply,Prolonged thirst,Discomfort,High,Easy,Panting,Welfare outcome,Behavioural ,Moderate,Low,24,,"F, R",Y
+70,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged thirst,Poor water quality,Prolonged thirst,Discomfort,High,Moderate,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+70,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged thirst,Poor water quality,Prolonged thirst,Discomfort,High,Moderate,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+70,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged thirst,Poor water quality,Prolonged thirst,Discomfort,High,Moderate,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+70,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged thirst,Poor water quality,Prolonged thirst,Discomfort,High,Moderate,Panting,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+71,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+71,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+71,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Bringing outdoor-housed sheep indoors,Environmental stress,Fear,Low,Difficult,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,,,R,N (research only)
+71,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+72,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+72,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+72,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Bringing outdoor-housed sheep indoors,Environmental stress,Di(stress),Low,Difficult,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,,,R,N (research only)
+72,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+73,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Lack of facilities for sick animals,Environmental stress,Di(stress),Low,Easy,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+73,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Lack of facilities for sick animals,Environmental stress,Di(stress),Low,Easy,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+73,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Lack of facilities for sick animals,Environmental stress,Di(stress),Low,Easy,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+73,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Lack of facilities for sick animals,Environmental stress,Di(stress),Low,Easy,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+74,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Environmental stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+74,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+74,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Tethering/restraining lactating ewes (e.g. use of lamb adopter),Environmental stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+74,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+75,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Frustration,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+75,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Frustration,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+75,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Frustration,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+75,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Frustration,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+76,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+76,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+76,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+76,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Mixing of animals from different groups,Group (social) stress,Di(stress),Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+77,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+77,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+77,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+77,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Frustration,High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+78,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+78,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+78,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+78,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Lack of physical or visual contact with other sheep,Isolation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+79,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+79,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+79,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+79,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Presence of predators,Predation stress,Fear,Low,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,24,,R,N (research only)
+80,Sheep,Adults - Outside year-round,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+80,Sheep,Lambs from outside year round,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+80,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+80,Sheep,Lambs from winter housed,Appropiate behaviour,Positive emotional state,Temporary separation of lamb from ewe,Separation stress,Di(stress),High,Moderate,Physiological stress indicators,Welfare outcome,Health/physical/production,Difficult,High,25,,R,N (research only)
+81,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Lack of shade ,Heat stress,Di(stress),Low,Moderate,Shade-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+81,Sheep,Lambs from outside year round,Good Housing,Thermal comfort,Lack of shade ,Heat stress,Di(stress),Low,Moderate,Shade-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+81,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Lack of shade ,Heat stress,Di(stress),Low,Moderate,Shade-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+81,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Lack of shade ,Heat stress,Di(stress),Low,Moderate,Shade-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+82,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shelter-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+82,Sheep,Lambs from outside year round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shelter-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+82,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shelter-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+82,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shelter-seeking behaviour,Welfare outcome,Behavioural,Moderate,Low,24,,F,Y
+83,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+83,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+83,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Inadequate bedding (in bedded systems),Cold stress,Di(stress),Low,Easy,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+83,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Inadequate bedding (in bedded systems),Cold stress,Di(stress),Low,Easy,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+84,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+84,Sheep,Lambs from outside year round,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+84,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+84,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Lack of shelter in bad weather ,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+85,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+85,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+85,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Poor or damaged insulation,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+85,Sheep,Lambs from winter housed,Good Housing,Thermal comfort,Poor or damaged insulation,Cold stress,Di(stress),Low,Moderate,Shivering,Welfare outcome,Behavioural,Moderate,Low,,,"F, R",Y
+86,Sheep,Adults - Outside year-round,Good Housing,Thermal comfort,Shearing at inappropriate time,Cold stress,Di(stress),Low,Easy,Shivering,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+86,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+86,Sheep,Adults - Outside/winter housed,Good Housing,Thermal comfort,Shearing at inappropriate time,Cold stress,Di(stress),Low,Easy,Shivering,Welfare outcome,Behavioural,Moderate,Low,24,,"F, R",Y
+86,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+87,Sheep,Adults - Outside year-round,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,"Skin condition, itchiness",Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+87,Sheep,Lambs from outside year round,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,"Skin condition, itchiness",Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+87,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,"Skin condition, itchiness",Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+87,Sheep,Lambs from winter housed,Good Health,Absence of disease,External parasites,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,"Skin condition, itchiness",Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+88,Sheep,Adults - Outside year-round,Good Health,Absence of disease,Poor shearing hygiene,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Skin disorders,Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+88,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+88,Sheep,Adults - Outside/winter housed,Good Health,Absence of disease,Poor shearing hygiene,Skin disorders (other than soft tissue lesions and integument damage),Discomfort,High,Easy,Skin disorders,Welfare outcome,Health/physical/production,Easy,Low,24,,F,Y
+88,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+89,Sheep,Adults - Outside year-round,Good Health,Absence of pain induced by management procedures,Unskilled or rough shearing,Soft tissue lesions and integument damage,Pain,High,Easy,Skin lesions,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+89,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+89,Sheep,Adults - Outside/winter housed,Good Health,Absence of pain induced by management procedures,Unskilled or rough shearing,Soft tissue lesions and integument damage,Pain,High,Easy,Skin lesions,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+89,Sheep,Lambs from winter housed,,,,,,,,,,,,,,,,
+90,Sheep,Adults - Outside year-round,Good Health,Absence of injuries,Inability to escape from predators,Soft tissue lesions and integument damage,Pain,High,Moderate,Soft tissue injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+90,Sheep,Lambs from outside year round,Good Health,Absence of injuries,Inability to escape from predators,Soft tissue lesions and integument damage,Pain,High,Moderate,Soft tissue injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+90,Sheep,Adults - Outside/winter housed,Good Health,Absence of injuries,Inability to escape from predators,Soft tissue lesions and integument damage,Pain,High,Moderate,Soft tissue injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+90,Sheep,Lambs from winter housed,Good Health,Absence of injuries,Inability to escape from predators,Soft tissue lesions and integument damage,Pain,High,Moderate,Soft tissue injuries,Welfare outcome,Health/physical/production ,Easy,Low,24,,F,Y
+91,Sheep,Adults - Outside year-round,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Sward analysis,Management input,,Moderate,Medium,24,,F,Y
+91,Sheep,Lambs from outside year round,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Sward analysis,Management input,,Moderate,Medium,24,,F,Y
+91,Sheep,Adults - Outside/winter housed,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Sward analysis,Management input,,Moderate,Medium,24,,F,Y
+91,Sheep,Lambs from winter housed,Good Feeding,Absence of prolonged hunger,Low nutritional value of grazing,Prolonged hunger,Discomfort,High,Moderate,Sward analysis,Management input,,Moderate,Medium,24,,F,Y
+92,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+92,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+92,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Expression of other behaviours,Lack of space indoors,General disruption of behaviour,Frustration,Low,Moderate,Time budgets (disruption of behaviour),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+92,Sheep,Lambs from winter housed,Appropiate behaviour,Expression of other behaviours,Lack of space indoors,General disruption of behaviour,Frustration,Low,Moderate,Time budgets (disruption of behaviour),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+93,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+93,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+93,Sheep,Adults - Outside/winter housed,Appropiate behaviour,Expression of other behaviours,Poor housing design,General disruption of behaviour,Frustration,Low,Difficult,Time budgets (disruption of behaviour),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+93,Sheep,Lambs from winter housed,Appropiate behaviour,Expression of other behaviours,Poor housing design,General disruption of behaviour,Frustration,Low,Difficult,Time budgets (disruption of behaviour),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+94,Sheep,Adults - Outside year-round,Good Housing,Comfort around resting,Lack of a comfortable lying area,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+94,Sheep,Lambs from outside year round,Good Housing,Comfort around resting,Lack of a comfortable lying area,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+94,Sheep,Adults - Outside/winter housed,Good Housing,Comfort around resting,Lack of a comfortable lying area,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+94,Sheep,Lambs from winter housed,Good Housing,Comfort around resting,Lack of a comfortable lying area,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+95,Sheep,Adults - Outside year-round,Good Housing,Comfort around resting,Lack of shade ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+95,Sheep,Lambs from outside year round,Good Housing,Comfort around resting,Lack of shade ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+95,Sheep,Adults - Outside/winter housed,Good Housing,Comfort around resting,Lack of shade ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+95,Sheep,Lambs from winter housed,Good Housing,Comfort around resting,Lack of shade ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+96,Sheep,Adults - Outside year-round,Good Housing,Comfort around resting,Lack of shelter in bad weather ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+96,Sheep,Lambs from outside year round,Good Housing,Comfort around resting,Lack of shelter in bad weather ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+96,Sheep,Adults - Outside/winter housed,Good Housing,Comfort around resting,Lack of shelter in bad weather ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+96,Sheep,Lambs from winter housed,Good Housing,Comfort around resting,Lack of shelter in bad weather ,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,24,,R,N (research only)
+97,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+97,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+97,Sheep,Adults - Outside/winter housed,Good Housing,Comfort around resting,Lack of space indoors,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+97,Sheep,Lambs from winter housed,Good Housing,Comfort around resting,Lack of space indoors,Resting problems,Fatigue,High,Moderate,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+98,Sheep,Adults - Outside year-round,,,,,,,,,,,,,,,,
+98,Sheep,Lambs from outside year round,,,,,,,,,,,,,,,,
+98,Sheep,Adults - Outside/winter housed,Good Housing,Comfort around resting,Poor housing design,Resting problems,Fatigue,High,Difficult,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
+98,Sheep,Lambs from winter housed,Good Housing,Comfort around resting,Poor housing design,Resting problems,Fatigue,High,Difficult,Time budgets (restlessness),Welfare outcome,Behavioural,Moderate,Medium,,,R,N (research only)
